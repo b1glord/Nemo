@@ -1,3 +1,7 @@
+# 4144 Korumali client Yama yapma Aracı
+
+Bu Kopya 4144 Nemo projesinin çatalı [Nemo](https://gitlab.com/4144/Nemo/)
+
 # Nemo - closed source clients patcher.
 
 This is fork of @MStr3am project [Nemo](https://github.com/MStr3am/NEMO)
