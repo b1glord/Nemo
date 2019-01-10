@@ -1,0 +1,55 @@
+3 Chat Flood Remove Limit
+5 Enable Proxy Support
+6 Force Send Client Hash Packet
+8 Custom Window Title
+9 Disable 1rag1 type parameters (Recommended)
+19 Enable Title Bar Menu
+20 Extend Chat Box
+21 Extend Chat Room Box
+22 Extend PM Box
+279 Fix item description bug
+23 Enable /who command (Recommended)
+24 Fix Camera Angles (Recommended)
+284 Copy patched Cheat Defender Game Guard
+28 Increase Headgear ViewID
+286 Hide zero date (1969-01-01) in guild members window
+287 Change character display deletion time from actual date to relative date
+31 Increase Zoom Out 75%
+34 Enable /showname (Recommended)
+36 Read msgstringtable.txt (Recommended)
+38 Remove Gravity Ads (Recommended)
+39 Remove Gravity Logo (Recommended)
+41 Disable Nagle Algorithm (Recommended)
+43 Always Use Email for Char Deletion
+44 Translate Client (Recommended)
+46 Use Normal Guild Brackets (Recommended)
+48 Use Plain Text Descriptions (Recommended)
+49 Enable Multiple GRFs (Recommended)
+50 Skip License Screen
+53 Use Ascii on All LangTypes (Recommended)
+64 @ Bug Fix (Recommended)
+65 Load Custom lua file instead of iteminfo*.lub (Recommended)
+69 Extend Npc Dialog Box
+71 Ignore Resource Errors
+72 Ignore Missing Palette Error
+73 Remove Hourly Announce (Recommended)
+86 Only First Login Background
+88 Allow space in guild name
+90 Enable DNS Support (Recommended)
+204 Increase Attack Display
+205 Enable Monster Tables
+212 Restore Roulette
+213 Disable Help Message on Login (Recommended)
+215 Increase Map Quality
+219 Always Show Resurrection Button
+222 Show Replay Button
+229 Enable Emblem hover for BG
+230 Always load Korea ExternalSettings lua file
+234 Ignore Lua Errors
+235 Enable guild while in clan
+239 Ignore /account: command line argument
+241 Always Load Client Plugins [Experimental]
+244 Disable Cheat Defender Game Guard (Recommended)
+246 Increase hair style limit in game
+250 Allow leader to leave party if no members on map
+251 Allow close cutin by pressing esc key
