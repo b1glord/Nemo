@@ -44,6 +44,7 @@
 219 Always Show Resurrection Button
 222 Show Replay Button
 229 Enable Emblem hover for BG
+230 Always load Korea ExternalSettings lua file
 234 Ignore Lua Errors
 235 Enable guild while in clan
 239 Ignore /account: command line argument
