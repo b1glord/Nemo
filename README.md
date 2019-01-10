@@ -2,6 +2,8 @@
 
 Bu Kopya 4144 Nemo projesinin çatalı [Nemo](https://gitlab.com/4144/Nemo/)
 
+Turkce Ceviri [BigLord](https://github.com/b1glord)
+
 # Nemo - closed source clients patcher.
 
 This is fork of @MStr3am project [Nemo](https://github.com/MStr3am/NEMO)
