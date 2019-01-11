@@ -1,3 +1,4 @@
+1 Use Tilde for Matk
 3 Chat Flood Remove Limit
 5 Enable Proxy Support
 6 Force Send Client Hash Packet
@@ -18,10 +19,12 @@
 36 Read msgstringtable.txt (Recommended)
 38 Remove Gravity Ads (Recommended)
 39 Remove Gravity Logo (Recommended)
+40 Restore Login Window (Recommended)
 41 Disable Nagle Algorithm (Recommended)
 43 Always Use Email for Char Deletion
 44 Translate Client (Recommended)
 46 Use Normal Guild Brackets (Recommended)
+47 Use Ragnarok Icon
 48 Use Plain Text Descriptions (Recommended)
 51 Always Show License Screen
 53 Use Ascii on All LangTypes (Recommended)
@@ -31,7 +34,8 @@
 71 Ignore Resource Errors
 72 Ignore Missing Palette Error
 73 Remove Hourly Announce (Recommended)
-77 Enable Custom 3D Bones
+84 Remove Serial Display (Recommended)
+85 Show Cancel To Service Select
 86 Only First Login Background
 88 Allow space in guild name
 90 Enable DNS Support (Recommended)
@@ -41,12 +45,11 @@
 213 Disable Help Message on Login (Recommended)
 215 Increase Map Quality
 219 Always Show Resurrection Button
-222 Show Replay Button
+225 Show Register Button
 229 Enable Emblem hover for BG
 234 Ignore Lua Errors
 235 Enable guild while in clan
 239 Ignore /account: command line argument
-241 Always Load Client Plugins [Experimental]
 244 Disable Cheat Defender Game Guard (Recommended)
 246 Increase hair style limit in game
 250 Allow leader to leave party if no members on map
